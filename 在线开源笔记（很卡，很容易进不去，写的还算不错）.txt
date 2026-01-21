@@ -1,0 +1,7 @@
+https://datawhalechina.github.io/llm-cookbook/#/
+https://datawhalechina.github.io/llm-universe/#/
+https://github.com/datawhalechina/self-llm
+https://github.com/datawhalechina/so-large-lm
+https://github.com/datawhalechina/tiny-universe
+https://github.com/datawhalechina/so-large-lm
+https://github.com/datawhalechina/llm-universe/releases/tag/v1
